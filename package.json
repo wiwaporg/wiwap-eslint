@@ -1,5 +1,5 @@
 {
-  "name": "@wiwap/eslint-config",
+  "name": "@wiwaporg/eslint-config",
   "version": "1.0.1",
   "private": false,
   "description": "ESLint configuration used by wiwap. Based on @rocketseat/eslint-config.",
